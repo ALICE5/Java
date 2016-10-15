@@ -1,4 +1,4 @@
-package 设计模式;
+package DesignModel;
 
 public class ElectricAdapter implements DirectCurrent {
 	AlternateCurrent out;
